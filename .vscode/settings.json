@@ -1,5 +1,12 @@
 {
     "editor.fontSize": 16,
     "editor.lineHeight": 1.75,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    //quebra linha
+    "telemetry.telemetryLevel": "off",
+    //para de enviar informações para microsoft + privacidade
+    "security.workspace.trust.untrustedFiles": "open",
+    //para de exibir mensagem de segurança toda vez que abrir arquivo novo
+    "editor.formatOnSave": true,
 }
